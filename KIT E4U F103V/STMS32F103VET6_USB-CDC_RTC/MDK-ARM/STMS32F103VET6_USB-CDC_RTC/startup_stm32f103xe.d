@@ -1,0 +1,1 @@
+stms32f103vet6_usb-cdc_rtc\startup_stm32f103xe.o: startup_stm32f103xe.s

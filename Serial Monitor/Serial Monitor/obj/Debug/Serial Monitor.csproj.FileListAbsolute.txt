@@ -1,0 +1,8 @@
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe.config
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.pdb
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.Properties.Resources.resources
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.csproj.GenerateResource.Cache
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.exe
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.pdb
+E:\Electronic4U Tutorial\Serial Monitor\Serial Monitor\obj\Debug\ZKI.Form1.resources
